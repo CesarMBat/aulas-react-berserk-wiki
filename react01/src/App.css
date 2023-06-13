@@ -1,0 +1,49 @@
+#root {
+  margin: 0;
+  padding: 0rem;
+  font-family: 'Chokokutai', cursive;
+}
+  h2{
+  text-align: center;
+}
+.a-nav{
+  text-decoration: none;
+  color: #000;
+  font-size: 2rem;
+  margin-right: 5vw;
+}
+.p-teste{
+  text-align: center
+}
+.div-list{
+  text-align: center;
+}
+.nav-header{
+  display: inline-flex;
+}
+.title{
+  text-align: center;
+}
+.list-header{
+  margin-right: 2rem;
+}
+
+.mark{
+  padding: 1rem;
+  margin-right: 5vw;
+
+}
+ul{
+
+  text-align: center;
+  list-style-type: none;
+}
+header{
+  background-color: #C02026;
+  color: #000;
+  height: 10vh;
+  width: 100%;
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+}
